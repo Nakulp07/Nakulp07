@@ -1,4 +1,77 @@
-## Hi there 👋
+<h2 >Hi 👋, I'm Nakul Pattewar <p align="left"> <img align = "right" src="https://komarev.com/ghpvc/?username=rohandoshi21&label=Profile%20views&color=0e75b6&style=flat" alt="rohandoshi21" /> </p> </h2>
+<h4>I'm a student currently pursuing a Bachelor's Degree in IT Engineering from the Pune Institute of Computer Technology with a keen interest in Development.</h4>
+- ⚡ Fun fact <i><b> </b></i> - Aristotle
+
+### IDE and Tools I have Used:
+<div>
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC4ogdcPcIAOOMJktgBMhQnQ&psig=AOvVaw2LxOIPUmhDkzuqf2uzceCn&ust=1726628340802000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiPz_n9yIgDFQAAAAAdAAAAABAJ"/> 
+ <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  
+  <a href="https://flutter.dev" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  
+  <a href="https://dart.dev" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  
+  <a href="https://www.python.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ 
+  <a href="https://nodejs.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+ 
+  <a href="https://expressjs.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
+  <a href="https://firebase.google.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ 
+  <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+ 
+  <a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+ 
+  <a href="https://heroku.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
+ 
+  <a href="https://postman.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+ 
+  <a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ 
+  <a href="https://www.qt.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+  
+  <a href="https://www.photoshop.com/en" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+  
+### Contributions:
+![snake gif](https://github.com/RohanDoshi21/RohanDoshi21/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/RohanDoshi21/RohanDoshi21/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  
+
+## GitHub Stats
+<p align="center">
+<div>
+<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api?username=rohandoshi21&show_icons=true&theme=outrun" alt="rohandoshi21">
+<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandoshi21&show_icons=true&locale=en&layout=compact&theme=outrun" alt="rohandoshi21">
+<!<img height = "180" width = "500" src="http://github-readme-streak-stats.herokuapp.com?user=RohanDoshi21&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="rohandoshi21" />
+</div>
+</p>
+
+## Hi there 👋, I'm Nakul Pattewar
 
 <!--
 **Nakulp07/Nakulp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
