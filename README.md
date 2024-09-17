@@ -46,5 +46,5 @@ I, personally, believe programming is more about articulating and organization t
 I have had to opportunity to work on multiple projects. Listing some of them 👇
 <!-- - [Lofi Night](https://github.com/SBagaria2710/lofi-night.club): A lofi station of hand-picked songs which is only accessible at night. -->
 - [Eat Smart](https://github.com/Ritesh2903/Eat_Smart_Admin_Panel): A Canteen Management App that simplifies canteen operations.
-- [Task Board](https://github.com/Ankur05103/PinnaclePass): Movie Ticket Booking Application that allows users to browse movies, select showtimes, and book tickets online & provides a seamless and intuitive user experience.
+- [PinnaclePass](https://github.com/Ankur05103/PinnaclePass): Movie Ticket Booking Application that allows users to browse movies, select showtimes, and book tickets online & provides a seamless and intuitive user experience.
 
